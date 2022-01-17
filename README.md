@@ -5,13 +5,16 @@
         <img src="https://github.com/aldemeery/shieldify/workflows/tests/badge.svg" alt="Build Status">
     </a>
     <a href="https://packagist.org/packages/aldemeery/shieldify">
-        <img src="https://poser.pugx.org/aldemeery/shieldify/d/total.svg" alt="Total Downloads">
+        <img src="http://poser.pugx.org/aldemeery/shieldify/downloads" alt="Total Downloads">
     </a>
     <a href="https://packagist.org/packages/aldemeery/shieldify">
-        <img src="https://poser.pugx.org/aldemeery/shieldify/v/stable.svg" alt="Latest Stable Version">
+        <img src="https://poser.pugx.org/aldemeery/shieldify/v" alt="Latest Stable Version">
     </a>
     <a href="https://packagist.org/packages/aldemeery/shieldify">
-        <img src="https://poser.pugx.org/aldemeery/shieldify/license.svg" alt="License">
+        <img src="https://poser.pugx.org/aldemeery/shieldify/license" alt="License">
+    </a>
+    <a href="https://packagist.org/packages/aldemeery/shieldify">
+        <img src="https://poser.pugx.org/aldemeery/shieldify/require/php" alt="License">
     </a>
 </p>
 
